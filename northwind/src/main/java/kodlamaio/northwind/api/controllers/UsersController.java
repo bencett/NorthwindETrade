@@ -50,7 +50,6 @@ public class UsersController {
 		= new ErrorDataResult<Object>(validationErrors,"Doğrulama hataları.");
 		
 		return errors;
-		//commit again
 	}
 }
 
